@@ -24,7 +24,6 @@ My public repositories span LLM applications, tool-connected agents, machine lea
 
 | Project | What's inside |
 | :--- | :--- |
-| [MCP Playground](https://github.com/SuleymanSuleymanzade/mcp-playground) | A Streamlit LLM chat app with MCP tool support, LangChain, LangGraph, and Docker. |
 | [Transformer From Scratch](https://github.com/SuleymanSuleymanzade/TransformerFromScratch) | A Python implementation exploring attention and transformers. |
 | [LLM](https://github.com/SuleymanSuleymanzade/LLM) | Large language model development experiments. |
 | [Concurrency Patterns](https://github.com/SuleymanSuleymanzade/concurrency_patterns) | Concurrency patterns for distributed systems and cloud computing. |
