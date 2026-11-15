@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Suleyman Suleymanzade — AI Architect</title>
+  <desc id="desc">A dark terminal banner featuring AWS, LangChain, LangGraph, and Linux.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#132c36"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#72e3c0" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M0 49H1200" stroke="#303b47"/>
+  <g transform="translate(28 25)"><circle r="6" fill="#ff7b72"/><circle cx="22" r="6" fill="#e3b341"/><circle cx="44" r="6" fill="#72e3c0"/></g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="110" y="31" font-size="13" fill="#8babb8">suleyman@linux: ~/architecture</text>
+    <text x="56" y="108" font-size="17" fill="#72e3c0">$ whoami</text>
+    <text x="54" y="169" font-size="43" font-weight="700" fill="#f0f6fc">Suleyman Suleymanzade</text>
+    <text x="56" y="211" font-size="23" fill="#b4c9d5">AI Architect <tspan fill="#72e3c0">@ Azercell Telecom</tspan></text>
+    <text x="56" y="278" font-size="17" fill="#8babb8">AWS <tspan fill="#425b69">/</tspan> LangChain <tspan fill="#425b69">/</tspan> LangGraph <tspan fill="#425b69">/</tspan> Linux</text>
+    <text x="56" y="321" font-size="14" fill="#72e3c0">&gt; cloud · agents · systems<tspan fill="#f0f6fc"> _</tspan></text>
+  </g>
+  <g fill="none" stroke="#72e3c0" stroke-width="2" opacity=".45">
+    <path d="M1010 118L1080 170L1010 222L940 170ZM1010 222V286M940 170V234L1010 286L1080 234V170"/>
+    <circle cx="1010" cy="118" r="5" fill="#72e3c0"/><circle cx="940" cy="170" r="5" fill="#72e3c0"/><circle cx="1080" cy="170" r="5" fill="#72e3c0"/><circle cx="1010" cy="286" r="5" fill="#72e3c0"/>
+  </g>
+</svg>
