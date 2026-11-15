@@ -16,7 +16,7 @@
 
 ### `$ whoami`
 
-I'm Suleyman, an **AI Architect at Azercell Telecom**. My work brings together **AWS**, **LangChain**, and **LangGraph**, with **Linux** as my everyday environment.
+I'm Suleyman, an **AI Architect at Azercell Telecom**. My work brings together **AWS**, **LangChain**, and **LangGraph**.
 
 My public repositories span LLM applications, tool-connected agents, machine learning, and systems programming. I enjoy exploring the layers beneath an application, from transformer internals to concurrency and operating systems.
 
@@ -24,6 +24,7 @@ My public repositories span LLM applications, tool-connected agents, machine lea
 
 | Project | What's inside |
 | :--- | :--- |
+| [Vekryx](https://github.com/SuleymanSuleymanzade/Vekryx) | Exact vector search in Rust with optional Python bindings. |
 | [Transformer From Scratch](https://github.com/SuleymanSuleymanzade/TransformerFromScratch) | A Python implementation exploring attention and transformers. |
 | [LLM](https://github.com/SuleymanSuleymanzade/LLM) | Large language model development experiments. |
 | [Concurrency Patterns](https://github.com/SuleymanSuleymanzade/concurrency_patterns) | Concurrency patterns for distributed systems and cloud computing. |
